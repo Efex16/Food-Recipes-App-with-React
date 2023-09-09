@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+}
+
+.navbar {
+  height: 70px;
+  background: rgb(13, 3, 63);
+  color: rgb(235, 252, 76);
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  padding: 3px 10px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+#navTitle {
+  margin: auto;
+}
+
+.recipes{
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   background-color:#0a0749;
+   }
